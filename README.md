@@ -1,3 +1,5 @@
+resultado final:(https://pt-buscador-peliculas-javascript.netlify.app/)
+
 ## Paso 1: Configuración de la API
 
 Antes de comenzar, necesitarás obtener una clave de API de TMDb. Puedes obtener una clave de API registrándote en el sitio web de TMDb. Una vez que tengas tu clave de API, reemplaza `'API_KEY'` en el código con tu clave de API.
